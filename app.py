@@ -84,7 +84,7 @@ def get_reply(user_text):
                 if keyword in user_text:
                     return reply.strip()
 
-    return "ക്ഷമിക്കണം 😊 എനിക്ക് മനസ്സിലായില്ല."
+    return ""
 
 
 # SEND MESSAGE TO FACEBOOK
